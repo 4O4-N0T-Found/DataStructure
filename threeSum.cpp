@@ -1,4 +1,4 @@
-// 找三数，使和等于0。leetcode15题
+// 找三数，使和等于0。leetcode 15题
 #include<iostream>
 #include<vector>
 using namespace std;
