@@ -1,4 +1,4 @@
-// 找三数，使得和与目标数最接近。leetcode15题
+// 找三数，使得和与目标数最接近。leetcode 16题
 #include<iostream>
 #include<vector>
 using namespace std;
